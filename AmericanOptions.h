@@ -1,7 +1,7 @@
 //
 //  AmericanOptions.h
 //  B
-//  Copyright (c) 2015 MichaelScott. All rights reserved.
+//  Copyright (c) 2015 Anees Attarwala All rights reserved.
 // American options class defining perpetual call and perpetual put options
 
 #ifndef B_a_AmericanOptions_h
