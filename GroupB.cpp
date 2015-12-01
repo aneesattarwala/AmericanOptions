@@ -2,7 +2,7 @@
 //  main.cpp
 //  B.a
 
-//  Copyright (c) 2015 MichaelScott. All rights reserved.
+//  Copyright (c) 2015 Anees Attarwala. All rights reserved.
 //
 /*  a)Program the perpetual american put and call formulae. Done using an AmericanOptions class with formulaes implemented for call and put options.
     parameters (no T parameter!). Write separate functions for puts and calls.
